@@ -12,5 +12,8 @@ public class B1 {
         //numをインクリメント
         num++;
         System.out.println(num);
+        //numにnum*2を代入
+        num*=2;
+        System.out.println(num);
 }
 }
